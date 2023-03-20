@@ -1,0 +1,15 @@
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.csproj.AssemblyReference.cache
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.AssemblyInfoInputs.cache
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.AssemblyInfo.cs
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.csproj.CoreCompileInputs.cache
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\bin\Debug\net6.0\Tugas_Class_Object_Taxi.exe
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\bin\Debug\net6.0\Tugas_Class_Object_Taxi.deps.json
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\bin\Debug\net6.0\Tugas_Class_Object_Taxi.runtimeconfig.json
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\bin\Debug\net6.0\Tugas_Class_Object_Taxi.dll
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\bin\Debug\net6.0\Tugas_Class_Object_Taxi.pdb
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.dll
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\refint\Tugas_Class_Object_Taxi.dll
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.pdb
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\Tugas_Class_Object_Taxi.genruntimeconfig.cache
+D:\Pemrograman\Pertemuan2\Tugas_Class_Object_Taxi\Tugas_Class_Object_Taxi\obj\Debug\net6.0\ref\Tugas_Class_Object_Taxi.dll
